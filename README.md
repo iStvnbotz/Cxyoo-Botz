@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://ibb.co/SQ25bJm" alt="Cyoo Botz" width="100"/>
+<img src="[url=https://imgbb.com/][img]https://i.ibb.co/yhDdtVk/Whats-App-Image-2022-06-10-at-15-54-05.jpg[/img][/url]" alt="Cyoo Botz" width="100"/>
 
 
 </p>
