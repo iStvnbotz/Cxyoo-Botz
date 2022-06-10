@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://telegra.ph/file/a33a0742bd82075087684.jpg" alt="Cyoo Botz" width="100"/>
+<img src="https://ibb.co/SQ25bJm" alt="Cyoo Botz" width="100"/>
 
 
 </p>
 <p align="center">
-<a href="#"><img title="CXYOO MULTI DEVICE" src="https://img.shields.io/badge/CHIKA MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="CXYOO MULTI DEVICE" src="https://img.shields.io/badge/CXYOO MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
